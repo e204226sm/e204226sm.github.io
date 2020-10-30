@@ -1,0 +1,25 @@
+h2{
+    color: chartreuse     
+}
+h3{
+    color: antiquewhite;
+}
+
+
+
+h1{
+    color:#ff15ff;
+    font-size:60px;
+    font-weight:normal;
+    font-family:"Impact";
+    text-align: center;
+
+    background-image: url(../images/01.jpg);
+}
+p{
+        background-color: rosybrown;
+    text-align: center;
+}
+body{
+    background-image:url(../images/kadai1.jpeg);
+}
