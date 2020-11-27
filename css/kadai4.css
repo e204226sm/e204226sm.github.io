@@ -1,0 +1,26 @@
+h1.a{
+    color: cadetblue;
+    font-size:30px;
+    text-align: center;
+
+    background-color: oldlace;
+}
+h1.a2{
+    color: gainsboro;
+    font-size:30px;
+    text-align: center;
+
+    background-color: oldlace;
+}
+h2.i{
+    text-align: center;
+    background-color: green;
+}
+h2.i2{
+    text-align: center;
+    background-color: honeydew;
+}
+
+body{
+    background-image:url(../images/1127.jpg);
+}
