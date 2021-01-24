@@ -1,0 +1,111 @@
+div.title{
+    width: 1000px;
+    height: 60px;
+    background-color: lemonchiffon;
+    font-size: 45px;
+    font-family: "impact";
+    margin-bottom: 20px;
+    padding: 0px 30px;
+}
+
+div.elementitem1{
+    vertical-align: top;
+    display: inline-block;
+    width: 1000px;
+    height: 60px;
+    font-size: 0px;
+    margin-bottom: 20px;
+}
+
+span.menu{
+    vertical-align: top;
+    display: inline-block;
+    width: 211px;
+    height: 20px;
+    background-image: url(../images/unnamed.jpg);
+    font-size: 15px;
+    margin: 0px 12px 0px 0px;
+    text-align: center;
+    padding:15
+}
+
+span.menu1{
+    vertical-align: top;
+    display: inline-block;
+    width: 211px;
+    height: 20px;
+    background-image: url(../images/unnamed.jpg);
+    font-size: 15px;
+    margin: 0px 12px 0px 0px;
+    text-align: center;
+    padding:15
+}
+
+span.menu2{
+    vertical-align: top;
+    display: inline-block;
+    width: 211px;
+    height: 20px;
+    background-image: url(../images/unnamed.jpg);
+    text-align: center;
+    font-size: 15px;
+    padding:15
+}
+
+div.pagetitle{
+    width: 130px;
+    height: 20px;
+    font-size: 15px;
+    background-image: url(../images/s1.jpg);
+    font-weight:bold;
+    margin-bottom: 20px;
+    padding: 15px 30px 15px 30px;
+}
+
+div.images{
+    width: 1000px;
+    height: 272px;
+    font-size: 0px;
+    margin-bottom: 20px;
+}
+
+div.image{
+    vertical-align: top;
+    display: inline-block;
+    width: 485px;
+    height: 272px;
+    font-size: 15px;
+    margin: 0px 10px 0px 10px;
+}
+
+div.image2{
+    vertical-align: top;
+    display: inline-block;
+    width: 485px;
+    height: 272px;
+    font-size: 15px;
+    margin: 0px 10px 0px 0px;
+}
+
+div.Sentence{
+    width: 970px;
+    height: 115px;
+    background-image: url(../images/s1.jpg);
+    margin-bottom: 20px;
+    padding:15px;
+}
+
+div.footer{
+    width: 1000px;
+    height: 250px;
+    background-image: url(../images/72.jpg);
+}
+
+body{
+    background-image: url(../images/3.jpeg)
+}
+
+div.wrap{
+    width : 1000px;
+    margin : 0px auto;
+}
